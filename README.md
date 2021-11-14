@@ -1,5 +1,5 @@
 # rsa-voice-encryption
-Implementing RSA algorithm for voice encryption
+**Implementing RSA algorithm for voice encryption using MATLAB**
 
 There is 2 main program, one for sender, and one for receiver. 
 
